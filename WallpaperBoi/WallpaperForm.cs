@@ -20,6 +20,7 @@ namespace WallpaperBoi
         // The extensions the file can be in
         public static readonly string[] SUPPORTED_EXTENSIONS = { "png", "jpg", "bmp", "gif", "tif", "tiff" };
 
+        // TODO P/Invoke into shell32 instead (to remove the extra DLL file)
         private Shell32.ShellClass shell;
 
         // File watcher
