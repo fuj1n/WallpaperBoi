@@ -19,6 +19,15 @@ E:\WallpaperBoi\WallpaperBoi\obj\Debug\WallpaperBoi.csproj.GenerateResource.Cach
 J:\WallpaperBoi\WallpaperBoi\bin\Debug\WallpaperBoi.exe.config
 J:\WallpaperBoi\WallpaperBoi\obj\Debug\WallpaperBoi.exe
 J:\WallpaperBoi\WallpaperBoi\obj\Debug\WallpaperBoi.pdb
-J:\WallpaperBoi\WallpaperBoi\WallpaperBoi\bin\Debug\WallpaperBoi.exe.config
 J:\WallpaperBoi\WallpaperBoi\WallpaperBoi\obj\Debug\WallpaperBoi.exe
 J:\WallpaperBoi\WallpaperBoi\WallpaperBoi\obj\Debug\WallpaperBoi.pdb
+J:\WallpaperBoi\WallpaperBoi\WallpaperBoi\bin\WallpaperBoi.exe.config
+J:\WallpaperBoi\WallpaperBoi\WallpaperBoi\obj\Debug\WallpaperBoi.csprojResolveAssemblyReference.cache
+J:\WallpaperBoi\WallpaperBoi\WallpaperBoi\obj\Debug\WallpaperBoi.Properties.Resources.resources
+J:\WallpaperBoi\WallpaperBoi\WallpaperBoi\obj\Debug\WallpaperBoi.WallpaperForm.resources
+J:\WallpaperBoi\WallpaperBoi\WallpaperBoi\obj\Debug\WallpaperBoi.csproj.GenerateResource.Cache
+J:\WallpaperBoi\WallpaperBoi\WallpaperBoi\bin\WallpaperBoi.exe
+J:\WallpaperBoi\WallpaperBoi\WallpaperBoi\bin\WallpaperBoi.pdb
+J:\WallpaperBoi\WallpaperBoi\WallpaperBoi\bin\Interop.Shell32.dll
+J:\WallpaperBoi\WallpaperBoi\WallpaperBoi\obj\Debug\Interop.Shell32.dll
+J:\WallpaperBoi\WallpaperBoi\WallpaperBoi\obj\Debug\WallpaperBoi.csproj.ResolveComReference.cache
