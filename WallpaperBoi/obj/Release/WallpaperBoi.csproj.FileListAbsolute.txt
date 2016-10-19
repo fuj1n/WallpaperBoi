@@ -1,0 +1,9 @@
+E:\WallpaperBoi\WallpaperBoi\bin\Release\WallpaperBoi.exe.config
+E:\WallpaperBoi\WallpaperBoi\bin\Release\WallpaperBoi.exe
+E:\WallpaperBoi\WallpaperBoi\bin\Release\WallpaperBoi.pdb
+E:\WallpaperBoi\WallpaperBoi\obj\Release\WallpaperBoi.csprojResolveAssemblyReference.cache
+E:\WallpaperBoi\WallpaperBoi\obj\Release\WallpaperBoi.Properties.Resources.resources
+E:\WallpaperBoi\WallpaperBoi\obj\Release\WallpaperBoi.WallpaperForm.resources
+E:\WallpaperBoi\WallpaperBoi\obj\Release\WallpaperBoi.csproj.GenerateResource.Cache
+E:\WallpaperBoi\WallpaperBoi\obj\Release\WallpaperBoi.exe
+E:\WallpaperBoi\WallpaperBoi\obj\Release\WallpaperBoi.pdb
